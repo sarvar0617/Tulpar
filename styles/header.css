@@ -1,0 +1,6 @@
+nav ul{
+    display: flex;
+    gap: 30px;
+    padding-left: 60px;
+    padding-top: 30px;
+}
